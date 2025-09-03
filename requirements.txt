@@ -1,0 +1,20 @@
+# Core
+numpy
+pandas
+scikit-learn
+matplotlib
+
+# Deep Learning
+torch
+torchvision
+torchaudio
+
+# Data sources
+yfinance
+joblib
+
+# Web app
+streamlit
+
+# Optionnel mais utile
+requests
